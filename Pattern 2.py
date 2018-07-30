@@ -20,7 +20,6 @@ def draw_art():
         draw_square(brad)
         brad.right(50)
 
-
     window.exitonclick()
 
 draw_art()
